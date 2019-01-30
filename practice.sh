@@ -1,6 +1,6 @@
 #!/bin/bash
 # Author: Nick Hanselman
-# Date: 1/31/2019
+# Date: 1/30/2019
 echo "Enter a number: "
 read numOne
 echo "Enter a secondNumber: "
